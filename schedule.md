@@ -58,6 +58,7 @@
 - **Week 15** Apr 21
 	- Topics: dimensionality reduction 
 	- Readings: UML chapter 23
+	- Course materials: [Slides](slides/lecture-12.pdf)
 - **Week 16**
 	- Final project presentation
-	- Time and location: TBD
+	- Each group needs to submit a video record of their final project presentation by May 3rd, 23:59 PM. More details will be sent out soon.
