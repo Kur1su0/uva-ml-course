@@ -22,7 +22,7 @@
 
 **Final Project**
 
-- [Final Project Proposal Requirements](project.md)
+- [Final Project Requirements](project.md)
 - [Final Project Signup Form](https://docs.google.com/spreadsheets/d/1N7ApHiRLkeWxplnTj2ODHgxCQxhrk0-VkjFKm_0lEKA/edit?usp=sharing)
 - [Final Project Proposal Template](https://www.overleaf.com/latex/templates/neurips-2019/tprktwxmqmgk)
 
